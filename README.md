@@ -1,0 +1,2 @@
+# PCOS-Diagnosis-Prediction-with-Explainable-ML-Models
+Built an ensemble ML pipeline to predict PCOS from clinical data. Engineered features like Age×BMI and BMI², applied SMOTE for class balance, and optimized Logistic Regression, Random Forest, and XGBoost. Achieved 95–96% accuracy and 92% F1 using a stacked ensemble with SHAP-based explainability. Results aligned predictions with clinical insights.!
